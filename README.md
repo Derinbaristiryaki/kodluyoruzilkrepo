@@ -17,6 +17,7 @@ Linux için:
 
 linux
 cd koluyoruzilkrepo
+
 kod .
 
 
