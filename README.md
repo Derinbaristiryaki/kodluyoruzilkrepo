@@ -7,7 +7,7 @@ Kodluyoruz Front-End Eğitimi kapsamında açtığım ilk repo
 
 Projeyi klonlayın. (buraya size repomuzdan link gelecek)
 
-git klon 
+git klon https://github.com/Derinbaristiryaki/kodluyoruzilkrepo.git
 
 ## Kullanım
 
